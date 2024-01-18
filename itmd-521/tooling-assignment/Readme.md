@@ -1,8 +1,8 @@
 # Deepak Reddy Kilaru
 
-![Deepak Reddy Kilaru](your_image_url.jpg)
+![Deepak Reddy Kilaru](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/tooling-assignment/images/dp.jpg)
 
-![Deepak Reddy Kilaru]()
+![Deepak Reddy Kilaru](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/tooling-assignment/images/about.jpg)
 
 
 
