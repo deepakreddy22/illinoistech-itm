@@ -21,16 +21,16 @@ Execute command: `java -version`
 ## Spark Versions
 
 Execute command: `pyspark` and `spark-shell` and take screenshots of each.
-![pyspark]()
-![spark shell]()
+![pyspark](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/spark.png)
+![spark shell](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/spark-shell.png)
 ## R Version
 
 Execute command: `R -v`
-![Hostname Change](())
+![R version](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/R -v.png)
 ## Python Version
 
 Execute command: `python -V`
-![Hostname Change](())
+![Python](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/python3 -V.png)
 ## Result of Cloning Your Private Repository
 
 No need to show the clone action -- just the results of the `ls` command
