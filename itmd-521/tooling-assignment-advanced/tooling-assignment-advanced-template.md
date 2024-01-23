@@ -4,7 +4,7 @@ Provide the required screenshots to show that tooling has been properly installe
 
 ## Hostname Change
 
-![Hostname Change]((https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/host.png))
+![Hostname Change](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/host.png)
 ## WebServer Install
 
 Screenshot from the host OS of http://192.168.33.10  or whichever private IP you assign to your Vagrant Box
