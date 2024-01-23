@@ -26,16 +26,16 @@ Execute command: `pyspark` and `spark-shell` and take screenshots of each.
 ## R Version
 
 Execute command: `R -v`
-![R version](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/R -v.png)
+![R version](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/R%20-v.png)
 ## Python Version
 
 Execute command: `python -V`
-![Python](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/python3 -V.png)
+![Python](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/python3%20-V.png)
 ## Result of Cloning Your Private Repository
 
 No need to show the clone action -- just the results of the `ls` command
 
-![Hostname Change](())
+![clone](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/clone.png)
 
 ## Output of vagrant box list command
 ![Output of vagrant]((https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/vagrant_list.png))
