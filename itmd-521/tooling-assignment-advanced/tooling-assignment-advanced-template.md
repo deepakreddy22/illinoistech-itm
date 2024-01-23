@@ -4,25 +4,25 @@ Provide the required screenshots to show that tooling has been properly installe
 
 ## Hostname Change
 
-![Hostname Change](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/host.png)
+![Hostname](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/host.png)
 ## WebServer Install
 
 Screenshot from the host OS of http://192.168.33.10  or whichever private IP you assign to your Vagrant Box
 
 ## MariaDB Version
-![Hostname Change](())
+
 
 Execute command: `mysql -V`
-
+![MAriaDB Version](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/maria.png)
 ## Java Version
 
 Execute command: `java -version`
-![Hostname Change](())
+![Java Version](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/java_version.png)
 ## Spark Versions
 
 Execute command: `pyspark` and `spark-shell` and take screenshots of each.
-![Hostname Change](())
-![Hostname Change](())
+![pyspark]()
+![spark shell]()
 ## R Version
 
 Execute command: `R -v`
