@@ -38,7 +38,7 @@ No need to show the clone action -- just the results of the `ls` command
 ![clone](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/clone.png)
 
 ## Output of vagrant box list command
-![Output of vagrant]((https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/vagrant_list.png))
+![Output of vagrant](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/vagrant_list.png)
 After completing this tutorial take a screenshot of the output of the command ```vagrant box list```
 
 ## Deliverable
