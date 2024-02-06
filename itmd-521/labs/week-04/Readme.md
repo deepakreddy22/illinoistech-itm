@@ -46,27 +46,27 @@ Add the required screenshots here:
 ### Screenshot of the printSchema inferred in Python
 
 Screenshot goes here
-
+![](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/week4_1.png)
 ### Screenshot of the printSchema programmatically in Python
 
 Screenshot goes here
-
+![](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/week4_2.png)
 ### Screenshot of the printSchema via DDL in Python
 
 Screenshot goes here
-
+![](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/week4_3.png)
 ### Screenshot of the printSchema inferred in Scala
 
 Screenshot goes here
-
+![](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/week4_4.png)
 ### Screenshot of the printSchema programmatically in Scala
 
 Screenshot goes here
-
+![](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/week4_5.png)
 ### Screenshot of the printSchema via DDL in Scala
 
 Screenshot goes here
-
+![](https://github.com/deepakreddy22/illinoistech-itm/blob/main/itmd-521/images/week4_6.png)
 ### Deliverable
 
 Submit to Blackboard the URL to the folder in your GitHub repo. I will clone your code, compile it, and run it to test the functionality. Include your `build.sbt` and all needed scaffolding files as well, but not your build artifacts.
